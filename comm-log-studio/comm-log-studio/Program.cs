@@ -6,7 +6,7 @@ namespace comm_log_studio
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.DarkMagenta;
+            Console.BackgroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Hello World!");
         }
     }
